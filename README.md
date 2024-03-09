@@ -1,4 +1,4 @@
-# Dog App
+# Rate My Professor
 
 
 
